@@ -196,4 +196,8 @@
     .taskbox, .heading{
         min-width: 150px;
     }
+    
+    .add input {
+        min-width: 50px;
+    }
 }
